@@ -55,7 +55,7 @@ ROOT_URLCONF = 'I4G016973E8D.urls'
 TEMPLATES = [
 {
 'BACKEND': 'django.template.backends.django.DjangoTemplates',
-'DIRS': [],
+'DIRS': [r'C:\Users\Talabi\Desktop\Django-Crud\I4G016973E8D\blog\templates'],
 'APP_DIRS': True,
 'OPTIONS': {
 'context_processors': [
